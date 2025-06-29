@@ -1,1 +1,1 @@
-# Ex0_individual_project_mijompar.ipynb
+# Ex0_individual_project.ipynb
